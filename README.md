@@ -25,5 +25,5 @@ Currently learning Spring Boot, REST APIs, and database design with MySQL.
 - Preparing for Java Backend Developer interviews
 
 🔗 Connect with me:
-- LinkedIn: https://www.linkedin.com/in/shivmangal-yadav
+https://www.linkedin.com/in/shivmangal-yadav26
 - GitHub: https://github.com/shivmangal-yadav
