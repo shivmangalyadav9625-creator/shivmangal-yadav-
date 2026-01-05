@@ -26,4 +26,4 @@ Currently learning Spring Boot, REST APIs, and database design with MySQL.
 
 🔗 Connect with me:
 https://www.linkedin.com/in/shivmangal-yadav26
-- GitHub: https://github.com/shivmangal-yadav
+- GitHub: https://github.com/shivmangalyadav9625-creator
